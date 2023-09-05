@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.0af99a13.css",
+    "main.js": "/react-portfolio/static/js/main.deb7df1e.js",
+    "static/media/boxicons.svg": "/react-portfolio/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/Shenbagam Resume.pdf": "/react-portfolio/static/media/Shenbagam Resume.e97ef648d4de57b56f85.pdf",
+    "static/media/boxicons.eot": "/react-portfolio/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/react-portfolio/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/react-portfolio/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/photo11.jpg": "/react-portfolio/static/media/photo11.2895e74218cbb3b63a4e.jpg",
+    "static/media/boxicons.woff2": "/react-portfolio/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "index.html": "/react-portfolio/index.html",
+    "main.0af99a13.css.map": "/react-portfolio/static/css/main.0af99a13.css.map",
+    "main.deb7df1e.js.map": "/react-portfolio/static/js/main.deb7df1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0af99a13.css",
+    "static/js/main.deb7df1e.js"
+  ]
+}
